@@ -3,3 +3,4 @@
 * [Basic Gadget](https://github.com/dodash/gadget-basic) : A basic OpenSocial Gadget written using plain JavaScript
 * [React Gadget](https://github.com/dodash/gadget-react) : A basic OpenSocial Gadget Written using React
 * [Angular 2 Gadget](https://github.com/nandeeshs/gadget-angular2) : A basic OpenSocial Gadget Written using Angular 2
+* [Angular 5 Gadget](https://github.com/dodash/gadget-angular5) : A basic OpenSocial Gadget Written using Angular 5
